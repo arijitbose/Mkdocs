@@ -1,2 +1,2 @@
 # Mkdocs
-## Sample Documentation of Python Code viu MKdocs and Mkdocstring
+## Sample Documentation of Python Code via MKdocs and Mkdocstring
